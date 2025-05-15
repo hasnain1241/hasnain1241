@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain1241&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain1241" /> </p>
 
-- 🔭 I’m currently a Student **in FAST NUCES**
+- 🔭 I’m currently a Student **at FAST NUCES**
 
 - 🌱 I’m currently learning **Python, Data Science**
 
