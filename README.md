@@ -1,9 +1,6 @@
 # Hi 👋, I'm Hasnain Akhtar
 
 ### Senior @ Fast 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain1241&label=Profile views&color=0e75b6&style=flat" alt="hasnain1241" /> </p>
-
 - 🔭 I'm currently working on **FinAi- A financial platform which simplifies the Banking system**
 
 - 🌱 I'm currently learning **ML, Deep Learning**
